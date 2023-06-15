@@ -1,0 +1,2 @@
+Select name
+From Employee
