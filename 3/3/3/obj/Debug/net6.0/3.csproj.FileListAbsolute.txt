@@ -1,0 +1,30 @@
+C:\Users\Андрей\Desktop\Новая папка (2)\Новая папка (2)\vs\UP\3\3\3\obj\Debug\net6.0\3.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\Новая папка (2)\Новая папка (2)\vs\UP\3\3\3\obj\Debug\net6.0\3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\Новая папка (2)\Новая папка (2)\vs\UP\3\3\3\obj\Debug\net6.0\3.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\Новая папка (2)\Новая папка (2)\vs\UP\3\3\3\obj\Debug\net6.0\3.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\Новая папка (2)\Новая папка (2)\vs\UP\3\3\3\obj\Debug\net6.0\3.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\Новая папка (2)\Новая папка (2)\vs\UP\3\3\3\bin\Debug\net6.0\3.exe
+C:\Users\Андрей\Desktop\Новая папка (2)\Новая папка (2)\vs\UP\3\3\3\bin\Debug\net6.0\3.deps.json
+C:\Users\Андрей\Desktop\Новая папка (2)\Новая папка (2)\vs\UP\3\3\3\bin\Debug\net6.0\3.runtimeconfig.json
+C:\Users\Андрей\Desktop\Новая папка (2)\Новая папка (2)\vs\UP\3\3\3\bin\Debug\net6.0\3.dll
+C:\Users\Андрей\Desktop\Новая папка (2)\Новая папка (2)\vs\UP\3\3\3\bin\Debug\net6.0\3.pdb
+C:\Users\Андрей\Desktop\Новая папка (2)\Новая папка (2)\vs\UP\3\3\3\obj\Debug\net6.0\3.dll
+C:\Users\Андрей\Desktop\Новая папка (2)\Новая папка (2)\vs\UP\3\3\3\obj\Debug\net6.0\refint\3.dll
+C:\Users\Андрей\Desktop\Новая папка (2)\Новая папка (2)\vs\UP\3\3\3\obj\Debug\net6.0\3.pdb
+C:\Users\Андрей\Desktop\Новая папка (2)\Новая папка (2)\vs\UP\3\3\3\obj\Debug\net6.0\3.genruntimeconfig.cache
+C:\Users\Андрей\Desktop\Новая папка (2)\Новая папка (2)\vs\UP\3\3\3\obj\Debug\net6.0\ref\3.dll
+F:\vs\UL\3\3\3\bin\Debug\net6.0\3.exe
+F:\vs\UL\3\3\3\bin\Debug\net6.0\3.deps.json
+F:\vs\UL\3\3\3\bin\Debug\net6.0\3.runtimeconfig.json
+F:\vs\UL\3\3\3\bin\Debug\net6.0\3.dll
+F:\vs\UL\3\3\3\bin\Debug\net6.0\3.pdb
+F:\vs\UL\3\3\3\obj\Debug\net6.0\3.csproj.AssemblyReference.cache
+F:\vs\UL\3\3\3\obj\Debug\net6.0\3.GeneratedMSBuildEditorConfig.editorconfig
+F:\vs\UL\3\3\3\obj\Debug\net6.0\3.AssemblyInfoInputs.cache
+F:\vs\UL\3\3\3\obj\Debug\net6.0\3.AssemblyInfo.cs
+F:\vs\UL\3\3\3\obj\Debug\net6.0\3.csproj.CoreCompileInputs.cache
+F:\vs\UL\3\3\3\obj\Debug\net6.0\3.dll
+F:\vs\UL\3\3\3\obj\Debug\net6.0\refint\3.dll
+F:\vs\UL\3\3\3\obj\Debug\net6.0\3.pdb
+F:\vs\UL\3\3\3\obj\Debug\net6.0\3.genruntimeconfig.cache
+F:\vs\UL\3\3\3\obj\Debug\net6.0\ref\3.dll
