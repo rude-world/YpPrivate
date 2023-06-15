@@ -1,0 +1,8 @@
+C:\Users\Андрей\Desktop\Новая папка (2)\Новая папка (2)\vs\UP\2\2\bin\Debug\2.exe.config
+C:\Users\Андрей\Desktop\Новая папка (2)\Новая папка (2)\vs\UP\2\2\bin\Debug\2.exe
+C:\Users\Андрей\Desktop\Новая папка (2)\Новая папка (2)\vs\UP\2\2\bin\Debug\2.pdb
+C:\Users\Андрей\Desktop\Новая папка (2)\Новая папка (2)\vs\UP\2\2\obj\Debug\2.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\Новая папка (2)\Новая папка (2)\vs\UP\2\2\obj\Debug\2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Андрей\Desktop\Новая папка (2)\Новая папка (2)\vs\UP\2\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\Новая папка (2)\Новая папка (2)\vs\UP\2\2\obj\Debug\2.exe
+C:\Users\Андрей\Desktop\Новая папка (2)\Новая папка (2)\vs\UP\2\2\obj\Debug\2.pdb
