@@ -1,0 +1,1 @@
+SELECT CAST((now()+ INTERVAL '1 DAY') AS DATE)
