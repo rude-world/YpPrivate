@@ -66,6 +66,7 @@ namespace gameCrpg
 
         public void O(Inventory inventory, Cocona cocona)
         {
+            Console.WriteLine();
             Console.WriteLine("Перед вами 2 прохода, один ведет к свету, к выходу из канализации, другой в темноту, вглубь.");
             Console.WriteLine();
             Console.WriteLine("1. К свету");
@@ -189,6 +190,7 @@ namespace gameCrpg
 
         public void E(Inventory inventory, Cocona cocona)
         {
+            Console.WriteLine();
             Console.WriteLine("Вы находитесь в центре города, куда дальше?");
             Console.WriteLine();
             Console.WriteLine("1. Зайти в таверну неподалеку");
@@ -228,6 +230,7 @@ namespace gameCrpg
         }
         public void Ch(Inventory inventory, Cocona cocona)
         {
+            Console.WriteLine();
             Console.WriteLine("Вы в таверне");
             Console.WriteLine();
             Console.WriteLine("1. Отдохнуть и восстановить всё ХП");
