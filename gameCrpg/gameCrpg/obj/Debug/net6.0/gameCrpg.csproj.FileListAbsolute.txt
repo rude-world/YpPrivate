@@ -1,0 +1,15 @@
+C:\Users\Андрей\Desktop\Новая папка (2)\Новая папка (2)\vs\gameCrpg\gameCrpg\bin\Debug\net6.0\gameCrpg.exe
+C:\Users\Андрей\Desktop\Новая папка (2)\Новая папка (2)\vs\gameCrpg\gameCrpg\bin\Debug\net6.0\gameCrpg.deps.json
+C:\Users\Андрей\Desktop\Новая папка (2)\Новая папка (2)\vs\gameCrpg\gameCrpg\bin\Debug\net6.0\gameCrpg.runtimeconfig.json
+C:\Users\Андрей\Desktop\Новая папка (2)\Новая папка (2)\vs\gameCrpg\gameCrpg\bin\Debug\net6.0\gameCrpg.dll
+C:\Users\Андрей\Desktop\Новая папка (2)\Новая папка (2)\vs\gameCrpg\gameCrpg\bin\Debug\net6.0\gameCrpg.pdb
+C:\Users\Андрей\Desktop\Новая папка (2)\Новая папка (2)\vs\gameCrpg\gameCrpg\obj\Debug\net6.0\gameCrpg.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\Новая папка (2)\Новая папка (2)\vs\gameCrpg\gameCrpg\obj\Debug\net6.0\gameCrpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\Новая папка (2)\Новая папка (2)\vs\gameCrpg\gameCrpg\obj\Debug\net6.0\gameCrpg.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\Новая папка (2)\Новая папка (2)\vs\gameCrpg\gameCrpg\obj\Debug\net6.0\gameCrpg.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\Новая папка (2)\Новая папка (2)\vs\gameCrpg\gameCrpg\obj\Debug\net6.0\gameCrpg.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\Новая папка (2)\Новая папка (2)\vs\gameCrpg\gameCrpg\obj\Debug\net6.0\gameCrpg.dll
+C:\Users\Андрей\Desktop\Новая папка (2)\Новая папка (2)\vs\gameCrpg\gameCrpg\obj\Debug\net6.0\refint\gameCrpg.dll
+C:\Users\Андрей\Desktop\Новая папка (2)\Новая папка (2)\vs\gameCrpg\gameCrpg\obj\Debug\net6.0\gameCrpg.pdb
+C:\Users\Андрей\Desktop\Новая папка (2)\Новая папка (2)\vs\gameCrpg\gameCrpg\obj\Debug\net6.0\gameCrpg.genruntimeconfig.cache
+C:\Users\Андрей\Desktop\Новая папка (2)\Новая папка (2)\vs\gameCrpg\gameCrpg\obj\Debug\net6.0\ref\gameCrpg.dll
